@@ -1,0 +1,245 @@
+.first{
+    width: 100%;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family:  'Inter', sans-serif !important ;
+}
+
+.netflixlogo{
+   width: 170px;
+   padding-left: 40px;
+}
+
+.net{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.buttonstop{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    padding-right: 40px;
+}
+
+.eng{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    
+}
+
+.signin{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.eng1{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.signin2{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.second{
+    width: 100%;
+    font-family:  'Inter', sans-serif !important ;
+   
+   
+}
+
+.ola{
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(assets/netflix\ background.jpg);
+}
+
+.eightytwo{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: white;
+    padding-left: 80px;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+
+.unlimited{
+    font-size: 80px;
+}
+
+.anywhere{
+    font-size: 30px;
+}
+
+.ready{
+    font-size: 20px;
+}
+
+.sendpartofsecond{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        
+}
+
+.getstarted{
+    background-color: red;
+    width: 230px;
+    font-size: 27px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border-color: white;
+}
+
+.email{
+    background-color:transparent;
+    width: 500px;
+    font-size: 20px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border-color: white;
+}
+
+.hundr{
+    width: 100%;
+    background-color:rgb(3, 3, 65) ;
+    color: white;
+    display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ font-family:  'Inter', sans-serif !important ;
+}
+
+.eightythree{
+    width: 87%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: linear-gradient(to bottom right,#e4230e,rgb(54, 33, 90),rgb(54, 33, 90));
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.eighty{
+    width: 87%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(54, 33, 90);
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.subheadings{
+    font-size: 60px;
+}
+
+.content{
+    font-size: 25px;
+}
+
+.eightyone{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+.frequently{
+    font-size: 45px;
+}
+
+.bluebuttons{
+        width: 1000px;
+        background-color: rgb(64, 54, 130);
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        color: white;
+        font-size: 20px;
+        padding-left: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .re{
+        font-size: 22px;
+    }
+
+
+.hundr2{
+    width: 100%;
+    background-color:rgb(3, 3, 65) ;
+    color: white;
+    font-family:  'Inter', sans-serif !important ;
+    padding-top: 120px;
+    display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ padding-bottom: 150px;
+
+}
+
+.eighteeabove{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+    background-color: rgb(3, 3, 65);
+    padding-left: 100px;
+   
+}
+
+.link{
+    color: white;
+}
+
+.eightee{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
