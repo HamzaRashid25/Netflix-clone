@@ -1,6 +1,6 @@
 # Netflix Clone
 
-**Live link**     -   https://github.com/HamzaRashid55555/Netflix-clone 
+**Live link**     -   https://netflix-clone-10n.pages.dev/
 
 **Orignal link**  -   https://www.netflix.com/in/
 
